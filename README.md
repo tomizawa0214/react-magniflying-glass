@@ -1,1 +1,1 @@
-# react-magniflying-glass
+# Reactで実装する虫眼鏡レンズ
